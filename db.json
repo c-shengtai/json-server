@@ -5,5 +5,12 @@
     { "name": "Bob", "age": 40 },
     { "name": "George", "age": 60 },
     { "name": "Frank", "age": 75 }
+  ],
+  "buildings": [
+    { "name": "Burj Khalifa", "height": 828 },
+    { "name": "Shanghai Tower", "height": 632 },
+    { "name": "Makkah Royal Clock Tower", "height": 601 },
+    { "name": "Ping An Finance Center", "height": 599.1 },
+    { "name": "Lotte World Tower", "height": 554.5 }
   ]
 }
